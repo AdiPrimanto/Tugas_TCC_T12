@@ -1,7 +1,7 @@
 # Docker Compose Dengan PHP
 
 ## Langkah pertama adalah menginstall docker terlebih dahulu jika belum ada dockernya
-Langkah-langkahnya bisa searching di google. Jika sudah berhasil kemudian lakukan langkah berikutnya..
+```Langkah-langkahnya bisa searching di google. Jika sudah berhasil kemudian lakukan langkah berikutnya..```
 
 ## Buat Dockerfile
 ```
@@ -50,7 +50,12 @@ docker-compose build kemudian jalankan perintah docker-compose up
 ```
 
 ## Lakukan pengujian dengan membuka pada browser dan ketik "localhost:8000/"
-Jika browser berhasil menampilkan hasil seperti yang diinginkan maka docker compose berhasil dibuat.
+```Maka browser akan menampilkan hasil berupa```
+```
+Nama : Adi Primanto
+NIM : 155410139
+Jurusan : Teknik Informatika
+```
 
 ## Langkah terakhir adalah mengupload tugas docker compose ini ke GitHub
-Jika sudah berhasil di upload maka share link tugas ini ke email yang diberikan :)
+```Jika sudah berhasil di upload maka share link tugas ini ke email yang sudah diberikan :)```
